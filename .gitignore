@@ -1,0 +1,19 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de editores/IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+
+# Logs
+*.log
